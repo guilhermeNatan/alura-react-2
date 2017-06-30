@@ -6,7 +6,6 @@ class FotoAtualizacoes extends Component {
     constructor(props)
     {
         super(props);
-
     }
     like(evento)
     {
